@@ -9,3 +9,9 @@ just clone and build the files in an IDE and run the .exe file in command prompt
 <b>filename.exe image.jpg show_characters </B>
 
 Here show_characters are: E(eyes), B(eyebrows), N(nose), M(mouth), J(jaw), A(all).
+
+<b>Note:</b>
+"shape_predictor_68_face_landmarks.dat" file needs to be included in the above directory for the application to work, it can be downloaded from the dlib website.
+
+
+
